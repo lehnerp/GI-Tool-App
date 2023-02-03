@@ -1,8 +1,8 @@
 //
-//  Model.swift
+//  TacoData.swift
 //  GI-Tool-App
 //
-//  Created by Patrik Lehner on 31.01.2023.
+//  Created by Patrik Lehner on 01.02.2023.
 //
 
 import Foundation
@@ -45,3 +45,4 @@ struct Constellation: Codable {
     var description: String
     var level: Int
 }
+
